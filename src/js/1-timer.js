@@ -4,6 +4,7 @@ import "flatpickr/dist/flatpickr.min.css";
 import iziToast from "izitoast";
 import "izitoast/dist/css/iziToast.min.css";
 
+import iconError from "../img/error.svg";
 
 const inputDate = document.querySelector('input[type = "text"]');
 const btnStart = document.querySelector("button[data-start]");
