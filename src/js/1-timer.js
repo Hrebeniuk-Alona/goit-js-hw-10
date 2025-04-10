@@ -62,7 +62,7 @@ function handleDateSelection(selectedDates) {
       messageColor: "#fafafb",
       position: 'topRight',
       backgroundColor: "#EF4040",
-      iconUrl:"../img/error.svg"
+      iconUrl: iconError
     })
     btnStart.disabled = true;
     return
